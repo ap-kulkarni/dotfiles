@@ -1,0 +1,33 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR __fish_initialized:3100
+SETUVAR _tide_prompt_12217:\x1e\x1b\x28B\x1b\x5bm\x1b\x28B\x1b\x5bm\x1b\x5b38\x3b2\x3b206\x3b215\x3b207m\u2591\u2592\u2593\x1b\x5b38\x3b2\x3b8\x3b8\x3b8m\x1b\x5b48\x3b2\x3b206\x3b215\x3b207m\x20\uf179\x20\x1b\x5b38\x3b2\x3b206\x3b215\x3b207m\x1b\x5b48\x3b2\x3b52\x3b101\x3b164m\ue0b0\x1b\x5b48\x3b2\x3b52\x3b101\x3b164m\x20\x1b\x28B\x1b\x5bm\x1b\x5b48\x3b2\x3b52\x3b101\x3b164m\x1b\x5b38\x3b2\x3b228\x3b228\x3b228m\uf015\x20\x1b\x5b1m\x1b\x5b38\x3b2\x3b228\x3b228\x3b228m\x7e\x1b\x28B\x1b\x5bm\x1b\x5b48\x3b2\x3b52\x3b101\x3b164m\x1b\x5b38\x3b2\x3b228\x3b228\x3b228m\x20\x1b\x28B\x1b\x5bm\x1b\x28B\x1b\x5bm\x1b\x5b38\x3b2\x3b52\x3b101\x3b164m\u2593\u2592\u2591\x1b\x28B\x1b\x5bm\x1b\x28B\x1b\x5bm\x1b\x5b38\x3b2\x3b88\x3b88\x3b88m\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\x1b\x28B\x1b\x5bm\x1b\x28B\x1b\x5bm\x1b\x5b38\x3b2\x3b196\x3b160\x3b0m\u2591\u2592\u2593\x1b\x5b38\x3b2\x3b0\x3b0\x3b0m\x1b\x5b48\x3b2\x3b196\x3b160\x3b0m\x20\uf252\x202m\x2012s\x20\x1b\x5b38\x3b2\x3b211\x3b215\x3b207m\x1b\x5b48\x3b2\x3b196\x3b160\x3b0m\ue0b2\x1b\x5b38\x3b2\x3b0\x3b0\x3b0m\x1b\x5b48\x3b2\x3b211\x3b215\x3b207m\x2011\x3a45\x3a27\x20AM\x20\x1b\x28B\x1b\x5bm\x1b\x28B\x1b\x5bm\x1b\x5b38\x3b2\x3b211\x3b215\x3b207m\u2593\u2592\u2591\x1b\x28B\x1b\x5bm\x1e\x1b\x5b38\x3b2\x3b255\x3b0\x3b0m\u276f\x1b\x28B\x1b\x5bm\x20
+SETUVAR fish_color_autosuggestion:4c566a
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:81a1c1
+SETUVAR fish_color_comment:434c5e
+SETUVAR fish_color_cwd:green
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:88c0d0
+SETUVAR fish_color_error:ebcb8b
+SETUVAR fish_color_escape:00a6b2
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:00a6b2
+SETUVAR fish_color_param:eceff4
+SETUVAR fish_color_quote:a3be8c
+SETUVAR fish_color_redirection:b48ead
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:brgreen
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_greeting:\x1d
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:normal
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
