@@ -1,0 +1,26 @@
+" Activate plugins
+call plug#begin(stdpath('data').'plugged')
+Plug 'neovim/nvim-lspconfig'
+Plug 'glepnir/lspsaga.nvim'
+call plug#end()
+
+lua <<EOF
+require'lspconfig'.pyright.setup{}
+local saga = require 'lspsaga'
+saga.init_lsp_saga {
+  error_sign = '',
+  warn_sign = '',
+  hint_sign = '',
+  infor_sign = '',
+  border_style = "round",
+}
+
+vim.opt.number = true
+vim.opt.cursorline = true
+vim.opt.relativenumber = true
+vim.opt.expandtab = true
+EOF
+" show hover doc
+nnoremap <silent>K :Lspsaga hover_doc<CR>
+inoremap <silent> <C-k> <Cmd>Lspsaga signature_help<CR>
+
